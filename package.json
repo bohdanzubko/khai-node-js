@@ -1,0 +1,15 @@
+{
+  "name": "khai-node-js-course",
+  "version": "1.0.0",
+  "description": "HTTP server creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "khai-node-js-cource"
+  },
+  "author": "Bohdan Zubko",
+  "license": "ISC"
+}
