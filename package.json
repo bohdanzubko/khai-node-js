@@ -11,5 +11,8 @@
     "url": "khai-node-js-cource"
   },
   "author": "Bohdan Zubko",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
